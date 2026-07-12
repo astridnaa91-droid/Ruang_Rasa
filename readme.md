@@ -31,8 +31,11 @@ Untuk menjalankan aplikasi ini di komputer lokal:
   [<img width="769" height="427" alt="Screenshot 2026-07-12 155727" src="https://github.com/user-attachments/assets/92a59367-a46d-43d7-a5ae-f64eeabae05f" />]
 - **Struktural Folder**
   [<img width="224" height="434" alt="Screenshot 2026-07-12 160051" src="https://github.com/user-attachments/assets/fe056e4c-5c37-432b-9d9f-02bc6add1d3d" />]
+  
   [<img width="224" height="403" alt="Screenshot 2026-07-12 160114" src="https://github.com/user-attachments/assets/a09f252a-28b1-413d-84b1-b3591f6b8374" />]
+  
   [<img width="226" height="209" alt="Screenshot 2026-07-12 160143" src="https://github.com/user-attachments/assets/e4cd2c48-659e-4767-982e-c5f7a7e85dea" />]
+  
   [<img width="227" height="106" alt="Screenshot 2026-07-12 160848" src="https://github.com/user-attachments/assets/287bfc20-ef75-4a0f-9e5a-26117c1695ac" />]
 
 - **Database Migration**
